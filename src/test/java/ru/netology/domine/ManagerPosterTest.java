@@ -1,9 +1,9 @@
 package ru.netology.domine;
 
 import org.junit.jupiter.api.Test;
-import ru.netology.domine.ManagerPoster;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertArrayEquals;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class ManagerPosterTest {
 
